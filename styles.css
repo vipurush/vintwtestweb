@@ -1,0 +1,134 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  color: #66BFBF;
+  font-size: 5.625rem;
+  font-family: 'Sacramento', cursive;
+  margin: 50px auto 0 auto;
+}
+
+h2 {
+  color: #66BFBF;
+  font-size: 1.875rem;
+  font-family: 'Montserrat', sans-serif;
+  padding-bottom: 10px;
+}
+
+h3 {
+  color: #11999E;
+  font-size: 1.2rem;
+  font-family: 'Montserrat', sans-serif;
+}
+
+p {
+  font-family: 'Merriweather', serif;
+  font-size: 0.81rem;
+  margin:30px auto;
+}
+
+hr {
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 50px auto;
+}
+
+.top-container {
+  background-color: #EAF6f6;
+  position: relative;
+  padding-top: 100px;
+}
+
+.subtitle {
+  font-family: 'Merriweather', serif;
+  font-size: 0.875rem;
+  margin-left: 50px;
+  margin-right: 50px;
+  font-weight: normal;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+.skill-row{
+  width: 50%;
+  margin: 50px auto 50px auto;
+  text-align:center;
+  line-height: 2;
+}
+.middle-container{
+  margin: 20px 0;
+}
+.profilepic {
+  position: relative;
+  top: 10px;
+  height: 200px;
+  width: 200px;
+}
+
+.Techwritingpic {
+  width: 25%;
+  float: left;
+  margin-right:40px;
+  margin-top: 15px;
+}
+
+.Testingpic {
+  width: 40%;
+  float: right;
+  margin-left:60px;
+  margin-top: 25px;
+}
+
+.bottom-container{
+  margin-top: 50px;
+  margin-bottom: 0;
+  background-color:#66BFBF;
+  height: 130px;
+}
+
+.footer-link {
+  color: #11999E;
+  display: inline-block;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 0.81rem;
+  margin: 30px 30px 0 0;
+  text-decoration: none;
+}
+.footer-link:hover{
+  color: #EAF6F6;
+
+}
+.copyrights{
+  color:#EAF6F6;
+  font-size: 0.75rem;
+  margin-bottom: 0;
+}
+.contact-me-button{
+  font-family: 'Merriweather', serif;
+  color: #FFFFFF;
+  font-size: 15px;
+  text-decoration: none;
+  text-shadow: 1px 1px 0 #66BFBF;
+  box-shadow: 1px 1px 1px #66BFBF;
+  padding: 10px 11px;
+  border-radius: 9px;
+  border: 1px solid #66BFBF;
+  background: #66BFBF;
+  background: linear-gradient(to top, #66BFBF, #66BFBF);
+}
+.testbutton:hover {
+  color: #FFFFFF;
+  background: #66BFBF;
+}
